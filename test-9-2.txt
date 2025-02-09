@@ -16,3 +16,6 @@ This file is an example of how to create and push a text file to a GitHub reposi
 
 # Conclusion
 This file serves as a beginner's guide to using Git and GitHub for version control.
+
+# Now this changes made in Git hub portal 
+This is need to pull in to the VS coder. By using pull command 'git pull'

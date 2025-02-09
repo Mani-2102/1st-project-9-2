@@ -1,0 +1,3 @@
+Create text file in the name of test-VS-9-2.txt
+Date: 09-02-2025
+purpose:

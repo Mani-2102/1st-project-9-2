@@ -1,3 +1,5 @@
 Create text file in the name of test-VS-9-2.txt
 Date: 09-02-2025
 purpose: test the VS code for git hub link this hole project is to check and learn the Git and git hub linking with VS code.
+
+now the is time to update file in VS code 
